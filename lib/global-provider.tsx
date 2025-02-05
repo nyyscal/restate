@@ -52,4 +52,4 @@ export const useGlobaleContext =():GlobalContextType =>{
   return context
 }
 
-export default GlobalProvider
+export default GlobalProvider;
